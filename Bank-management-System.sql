@@ -13,7 +13,6 @@ create table signupthree(formno varchar(20),accountType varchar(40),cardnumber v
 create table login(formno varchar(20),cardnumber varchar(25),pin varchar(10));
 
 create table bank(pin varchar(10),date varchar(50),type  varchar(20),amount varchar(20));
-//
 
 
 
